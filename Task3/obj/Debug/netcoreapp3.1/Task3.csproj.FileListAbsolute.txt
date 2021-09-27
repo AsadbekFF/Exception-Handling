@@ -1,0 +1,8 @@
+E:\Epam_Stajirovka\Exception Handling\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+E:\Epam_Stajirovka\Exception Handling\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+E:\Epam_Stajirovka\Exception Handling\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+E:\Epam_Stajirovka\Exception Handling\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+E:\Epam_Stajirovka\Exception Handling\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+E:\Epam_Stajirovka\Exception Handling\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+E:\Epam_Stajirovka\Exception Handling\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+E:\Epam_Stajirovka\Exception Handling\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
